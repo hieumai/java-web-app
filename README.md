@@ -1,0 +1,1 @@
+Demo project for Azure Web App using Java
